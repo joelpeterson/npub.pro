@@ -1,5 +1,5 @@
 
   User-agent: *
   Allow: /
-  Sitemap: https://github.com/joelpeterson/npub.pro/tree/main/sitemap.txt
+  Sitemap: https://joelpeterson.github.io/npub.pro/sitemap.txt
   
